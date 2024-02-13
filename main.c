@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "Troca.h"
+//teste
 
 int main(){
     TLista x[MAXTAM];
